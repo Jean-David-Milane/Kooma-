@@ -1,0 +1,6 @@
+{
+  "name": "ArtisanStock - Gestion de Stock & Boutique",
+  "description": "Application artisanale de gestion de stock, commandes et catalogue boutique avec design chaleureux terre cuite et flux complet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
